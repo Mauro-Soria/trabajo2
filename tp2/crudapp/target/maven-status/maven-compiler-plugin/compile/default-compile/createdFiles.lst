@@ -1,0 +1,4 @@
+com\example\crudapp\model\Persona.class
+com\example\crudapp\controller\PersonaController.class
+com\example\crudapp\CrudappApplication.class
+com\example\crudapp\service\PersonaService.class
